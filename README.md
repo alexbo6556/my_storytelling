@@ -10,9 +10,9 @@ María López Pérez
 Alejandro Bonilla Viedma
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Alejandro Bonilla Viedma
+- :woman: María López Pérez
+- :woman: Gloria Lozano Moreno 
 
 
 Proyecto (código): 
