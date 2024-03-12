@@ -1,12 +1,13 @@
 
 # Proyecto Storytelling (template): 
-### my_storytelling
+### Reality
 Plantilla para crear el storytelling (CDNCAV-b)
 
 Autores:  
 <!---
-Incluir lista de personas del grupo 
-Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
+Gloria Lozano Moreno
+María López Pérez
+Alejandro Bonilla Viedma
 -->
 
 - :man: minombre
