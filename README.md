@@ -1,6 +1,6 @@
 
 # Proyecto Storytelling (template): 
-### Reality
+### Falso Secuestro
 Plantilla para crear el storytelling (CDNCAV-b)
 
 Autores:  
@@ -18,8 +18,8 @@ Alejandro Bonilla Viedma
 Proyecto (código): 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
+- [ ] FictionCiberpunk  
+- [x] Reality/tribus urbanas  
 - [ ] Comic
 
 
