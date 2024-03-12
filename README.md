@@ -1,7 +1,7 @@
 
 # Proyecto Storytelling (template): 
 ### Falso Secuestro
-Plantilla para crear el storytelling (CDNCAV-b)
+Un reality de suspense y tragedia
 
 Autores:  
 <!---
