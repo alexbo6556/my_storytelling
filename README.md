@@ -25,13 +25,15 @@ Tipo/Género:
 
 
 ## Resumen
-
+Pepe Pistolas "El Pepsis", tiene el sueño de vivir en Nueva York pero carece de dinero y para conseguirlo se arriesga a fingir el secuestro de su mejor amigo para estafar a los padres de este. Exige un rescate millonario a lo que los padres acceden a pagar para salvar a su hijo.
+Cuando consigue el dinero, se va a vivir a Nueva York cambiando su look completamente para que no lo reconozcan. Una vez allí reparte la fortuna con su amigo aliándose e invirtiendo en una galería de arte que desafortunadamente acaba desapareciendo por las llamas.
 
 ### Personaje
 
 ![](img-nobody.png)
 
-Nombre: 
+- Pepe Pistolas "El Pepis"
+- Gus
 
 
 ### Historia
